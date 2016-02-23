@@ -63,15 +63,17 @@ nav {
 	height: 70px;
 	vertical-align: middle;
 	color: white;
-	font-style: italic;
 }
-
-.nav:hover,
 .up:hover,
 .downl:hover {
 	cursor: pointer;
 	text-decoration: none;
-	color: #ad00b8;
+	color: #0044b8;
+}
+.nav:hover {
+	cursor: pointer;
+	text-decoration: none;
+	color: #8fb4f4;
 }
 section {
 	background-image: url("../img/pape4.jpg");
@@ -101,7 +103,6 @@ section {
 	font-family: 'EB Garamond', serif;
 	font-size: 27px;
 	text-align: center;
-	font-style: italic;
 	font-weight: bold;
 }
 tr{
