@@ -31,6 +31,7 @@ body {
 	display: inline-block;
 }
 .narrow {
+	background-image: url("../img/shelf.jpg");
 	width: 260px;
 	height: 530px;
 	display: inline-block;
@@ -51,7 +52,8 @@ nav {
 	padding-top: 9px;
 }
 .nav {
-	background-image: url("../img/book2.jpg");
+	background: rgba(0,0,0,0.4);
+	border: 1px solid black;
 	background-size: 260px;
 	font-family: 'EB Garamond', serif;
 	font-size: 22px;
@@ -60,7 +62,8 @@ nav {
 	text-align: center;
 	height: 70px;
 	vertical-align: middle;
-	color: #965b01;
+	color: white;
+	font-style: italic;
 }
 
 nav:hover,
@@ -149,6 +152,15 @@ tr{
 	height: 70px;
 	vertical-align: middle;
 	color: #965b01;
+}
+hr {
+	color: black;
+}
+address {
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+	text-align: right;
+	float: right;
 }
 
 
