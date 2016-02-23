@@ -130,8 +130,8 @@ tr{
 .back {
 	width: 260px;
 	position: absolute;
-	left: 750px;
-	top: 450px;
+	right: 5px;
+	top: 0;
 	font-family: 'EB Garamond', serif;
 	font-size: 22px;
 	display: block;
@@ -139,6 +139,10 @@ tr{
 	height: 70px;
 	vertical-align: middle;
 	color: #965b01;
+}
+.back a i {
+	margin-right: 7px;
+	line-height: 22px;
 }
 .downl {
 	left: 400px;
