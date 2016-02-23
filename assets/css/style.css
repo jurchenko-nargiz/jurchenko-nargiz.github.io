@@ -1,0 +1,154 @@
+/*Header*/
+body {
+
+}
+.center {
+	width: 1300px;
+	margin: 0 auto;
+	position: relative;				
+}
+.top-div {
+	height: 300px;
+}
+.header-text {
+	cursor: pointer;
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+	text-align: left;
+	position: absolute;
+	font-variant: small-caps;
+	top: 230px;
+	left: 20px;
+	margin: 0;
+	color: #ffffff;
+	text-shadow: 2px 2px rgb(60,60,60);
+}
+.header-image {
+	position: absolute;
+	width: 1300px;
+	left: 0;
+	top: 0;
+	display: inline-block;
+}
+.narrow {
+	width: 260px;
+	height: 530px;
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+}
+
+nav {
+	margin-top: 15px;
+	position: relative;
+	display: inline-block;
+	float: left;
+}
+.middle {
+	line-height: 70px;
+}
+.top {
+	padding-top: 9px;
+}
+.nav {
+	background-image: url("../img/book2.jpg");
+	background-size: 260px;
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+	margin-top: 10px;
+	display: block;
+	text-align: center;
+	height: 70px;
+	vertical-align: middle;
+	color: #965b01;
+}
+
+nav:hover,
+.back:hover {
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+section {
+	background-image: url("../img/pape4.jpg");
+	width: 1000px;
+	display: inline-block;
+	position: relative;
+	float: right;
+	height: 530px;
+	margin-right: 20px;
+}
+.table-div {
+	margin: 0 auto;
+}
+.raspis {
+	display: inline-block;
+	width: 220px;
+	margin-top: 30px;
+	vertical-align: top;
+}
+.kursi {
+	text-align: center;
+}
+.table-first{
+	margin-left: 100px;
+}
+.raspis-nazv {
+	font-family: 'EB Garamond', serif;
+	font-size: 27px;
+	text-align: center;
+	text-shadow: 2px 2px rgb(170,170,170);
+}
+tr{
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+}
+.books {
+	width: 170px;
+	position: absolute;
+	z-index: 2;
+	display: inline-block;
+}
+.books-div {
+	z-index: 1;
+	position: absolute;
+	width: 140px;
+	margin-left: 850px;
+}
+.about {
+	margin-right: 50px;
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+	margin-top: 20px;
+	font-weight: bold;
+	text-align: center;
+	z-index: 100;
+}
+.back {
+	width: 260px;
+	position: absolute;
+	left: 750px;
+	top: 450px;
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+	display: block;
+	text-align: center;
+	height: 70px;
+	vertical-align: middle;
+	color: #965b01;
+}
+.downl {
+	left: 400px;
+	top: 100px;
+	width: 260px;
+	position: relative;
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+	display: block;
+	text-align: center;
+	height: 70px;
+	vertical-align: middle;
+	color: #965b01;
+}
+
+
