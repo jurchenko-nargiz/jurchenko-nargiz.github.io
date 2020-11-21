@@ -5,7 +5,7 @@ body {
 .center {
 	width: 1300px;
 	margin: 0 auto;
-	position: relative;				
+	position: relative;
 }
 .top-div{
 	margin-bottom: 20px;
@@ -73,13 +73,13 @@ nav {
 	color: #8fb4f4;
 }
 section {
-	background-image: url("../img/pape4.jpg");
-	width: 1000px;
+	background-image: url("../img/pape5.jpg");
+	width: 1300px;
 	display: inline-block;
 	position: relative;
 	float: right;
 	height: 530px;
-	margin-right: 20px;
+	margin-right: 0px;
 }
 .table-div {
 	margin: 0 auto;
@@ -119,7 +119,7 @@ td{
 	z-index: 1;
 	position: absolute;
 	width: 140px;
-	margin-left: 850px;
+	margin-left: 1050px;
 }
 .about {
 	margin-right: 50px;
@@ -189,5 +189,3 @@ address {
 .downl-opit {
 	margin-top: -100px;
 }
-
-
