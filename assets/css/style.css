@@ -41,6 +41,7 @@ nav {
 	position: relative;
 	display: inline-block;
 	float: left;
+	background-color: red;
 }
 .middle {
 	line-height: 70px;
