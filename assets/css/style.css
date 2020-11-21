@@ -50,7 +50,7 @@ nav {
 }
 .nav {
 	background: rgba(0,0,0,0.4);
-	border: 5px solid red;
+	border: 1px solid black;
 	background-size: 260px;
 	font-family: 'EB Garamond', serif;
 	font-size: 25px;
