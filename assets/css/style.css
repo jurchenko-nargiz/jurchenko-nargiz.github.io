@@ -41,7 +41,6 @@ nav {
 	position: relative;
 	display: inline-block;
 	float: left;
-	background-color: red;
 }
 .middle {
 	line-height: 70px;
@@ -51,7 +50,7 @@ nav {
 }
 .nav {
 	background: rgba(0,0,0,0.4);
-	border: 1px solid black;
+	border: 5px solid red;
 	background-size: 260px;
 	font-family: 'EB Garamond', serif;
 	font-size: 25px;
